@@ -9,5 +9,5 @@ Projet du module Web & 3D, réalisé par:
 Ce répertoire est composé de deux projets :
 
  + un projet thème imposé : un appartement 
- + un projet thème libre : un muséé d'armée
+ + un projet thème libre : un musée d'armée
 
